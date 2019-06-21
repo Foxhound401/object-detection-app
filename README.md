@@ -8,7 +8,7 @@ A real-time object recognition application using [Google's TensorFlow Object Det
 </p>
 
 ## Motivation
-There have been several object detection applications, but some of them is rather slow or not optimize to work with video Streamming. So with the update of Tensorflow 1.14. We can make an attempt to optimize in order to raise the performance of the Tensorflow API.
+There have been several object detection applications, but some of them is rather slow or not optimize to work with video Streamming. So with the update of Tensorflow 1.14. We can make an attempt to optimize in order to raise the performance of the API.
 
 ## Requirements
 - [Anaconda / Python 3.5](https://www.continuum.io/downloads)
