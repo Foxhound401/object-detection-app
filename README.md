@@ -2,6 +2,12 @@
 
 A real-time object recognition application using [Google's TensorFlow Object Detection API](https://github.com/tensorflow/models/tree/master/research/object_detection) and [OpenCV](http://opencv.org/).
 
+<p align="center">
+    <a href="">
+        <img alt="Ro River" src="https://github.com/Foxhound401/object-detection-app/blob/master/demo.png"/>
+    </a>
+</p>
+
 ## Requirements
 - [Anaconda / Python 3.5](https://www.continuum.io/downloads)
 - [TensorFlow 1.2](https://www.tensorflow.org/)
@@ -26,6 +32,11 @@ install all the packages need to run the detection scripts
 Stream file example-vid.mp4
 ` ffmpeg -re -i example-vid.mp4 -vcodec libx264 -vprofile baseline -g 30 -acodec aac -strict -2 -f flv rtmp://localhost/show/stream`
 
+
+Link for the HLS stream 
+http://localhost:8080/hls/stream.m3u8
+
+
 * -re - consume stream on media's native bitrate (and not as fast as possible)
 * -f - use video4linux2 plugin
 * -i - select physical device to capture from
@@ -36,8 +47,12 @@ Stream file example-vid.mp4
 * -f - specify format to output
 * rtmp://localhost/show/stream - rtmp endpoint to stream to. if the target port is not 1935 is should be included in the uri.
 
-Link for the HLS stream 
-http://localhost:8080/hls/stream.m3u8
+
+
+
+
+
+
 
 bai tap ve nha 
 ve mind map 
