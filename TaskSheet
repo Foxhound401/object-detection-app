@@ -1,0 +1,18 @@
+Group             Task Name                   Contribute                        Member                 Sum
+
+Requirement       Create problem statement
+                  Create User Story
+                  ERD Conceptual
+                  ERD Logical
+                  Database Diagram
+
+Design            Database Diagram
+                  System Architecture Diagram
+                  Mobile UI Design (Sreenlist)
+                  Mobile UI Design (Screen Detail)
+                  API Specification with Swagger
+
+Implement         Base class Implementation - Web
+                  Base class implementation - API
+                  Base class implementation - Mobile
+
