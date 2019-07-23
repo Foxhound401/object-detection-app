@@ -48,8 +48,3 @@ http://localhost:8080/hls/stream.m3u8
 * -f - specify format to output
 * rtmp://localhost/show/stream - rtmp endpoint to stream to. if the target port is not 1935 is should be included in the uri.
 
-bai tap ve nha 
-ve mind map 
-4 encapsulation inherit polymophysim abstraction
-
-SOLID
